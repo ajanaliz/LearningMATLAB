@@ -1,2 +1,2 @@
-# LearningMatlab
-this repository contains all my practice programs
+# LearningMATLAB
+this repository contains all my practice scripts
